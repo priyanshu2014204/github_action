@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/priyanshu2014204/github_action#readme",
   "dependencies": {
+    "bcrypt": "^5.1.0",
     "random-number": "^0.0.9"
   }
 }
