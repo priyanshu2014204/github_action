@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/priyanshu2014204/github_action/issues"
   },
-  "homepage": "https://github.com/priyanshu2014204/github_action#readme"
+  "homepage": "https://github.com/priyanshu2014204/github_action#readme",
+  "dependencies": {
+    "random-number": "^0.0.9"
+  }
 }
