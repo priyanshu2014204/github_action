@@ -4,3 +4,5 @@ jobs :
       runs-on : windows-latest
       steps : 
          - run : node -v
+         - uses : actions/checkour@v3
+         - run : node index.js
